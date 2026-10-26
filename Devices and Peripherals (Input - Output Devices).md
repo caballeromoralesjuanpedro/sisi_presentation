@@ -51,6 +51,7 @@ Peripherals also work with other computer components. For example, the CPU proce
 - **Price:** Approximately 15€.
 - **Product page:** [HP Official Website](https://www.hp.com/es-es/shop/products/accessories/teclado-con-cable-hp-150-negro-664r5aa-abe)
 
+![Imagen teclado]( https://www.hostingplus.com.es/wp-content/uploads/2023/07/como-interpretar-correctamente-resultados-test-velocidad-speed-test-cuales-son-fiables-2688635.jpg)
 ### 1 — ASUS VY249HGR 23.8" LED IPS FullHD 120Hz Adaptive Sync
 
 - **Type:** Output device.
@@ -59,6 +60,7 @@ Peripherals also work with other computer components. For example, the CPU proce
 - **Price:** Approximately 80€.
 - **Product page:** [Pc Componentes link](https://www.pccomponentes.com/monitor-asus-vy249hgr-23-8-led-ips-fullhd-120hz-adaptive-sync)
 
+![Imagen teclado](https://thumb.pccomponentes.com/w-530-530/articles/1086/10867467/1754-asus-vy249hgr-238-led-ips-fullhd-120hz-adaptive-sync.jpg)
 
 ## References
 
