@@ -51,7 +51,7 @@ Peripherals also work with other computer components. For example, the CPU proce
 - **Price:** Approximately 15€.
 - **Product page:** [HP Official Website](https://www.hp.com/es-es/shop/products/accessories/teclado-con-cable-hp-150-negro-664r5aa-abe)
 
-![Imagen teclado]( https://www.hostingplus.com.es/wp-content/uploads/2023/07/como-interpretar-correctamente-resultados-test-velocidad-speed-test-cuales-son-fiables-2688635.jpg)
+![Imagen teclado]( https://www.hp.com/es-es/shop/media/catalog/product/c/0/c08338085.jpg?store=es-es&image-type=image&auto=avif&quality=100&format=pjpg&type=image-product&width=960&fit=bounds)
 ### 1 — ASUS VY249HGR 23.8" LED IPS FullHD 120Hz Adaptive Sync
 
 - **Type:** Output device.
