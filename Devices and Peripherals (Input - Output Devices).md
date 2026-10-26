@@ -38,7 +38,7 @@ Peripherals also work with other computer components. For example, the CPU proce
 - **Compatibility:** A peripheral must be compatible with the computer and its operating system.
 - **Power consumption:** It indicates how much electricity the device uses.
 
-![Imagen introduccion]( )
+![Imagen introduccion]( https://www.hostingplus.com.es/wp-content/uploads/2023/07/como-interpretar-correctamente-resultados-test-velocidad-speed-test-cuales-son-fiables-2688635.jpg)
 
 
 ## Real-World Examples
