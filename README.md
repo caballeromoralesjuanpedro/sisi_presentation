@@ -1,1 +1,3 @@
-#You can find here the documents about the unit of hardware # [title] (./Devices and Peripherals - Juan Pedro Caballero Morales.pdf)
+# Devices and peripherals
+
+You can find here the documents about the unit of hardware [presentation](./Devices_and_Peripherals_Juan_Pedro_Caballero_Morales.pdf)
